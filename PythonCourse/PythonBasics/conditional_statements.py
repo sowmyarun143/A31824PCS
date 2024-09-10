@@ -36,7 +36,7 @@ else:
 #3.nested If-else statement:
 
 if age<0:
-    print("Age doesn't allow negative so,Enter proper age")
+    print("Age doesn't allow negative value so please enter proper age")
 else:
     if age>18:
         if age >=60:
