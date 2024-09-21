@@ -28,5 +28,5 @@ print(i)
 print(h)
 print(type(h))
 
-
+#strings
 
