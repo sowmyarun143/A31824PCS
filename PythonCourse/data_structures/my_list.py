@@ -162,7 +162,7 @@ if elem  in lst:
         if j<=len(lst):
             a = lst.pop(j)
             print(a)
-            j+=1
+            
                 
             print(lst)
        '''
